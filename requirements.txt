@@ -22,7 +22,7 @@ easy-thumbnails
 html5lib
 idna
 isort
-lazy-object-proxy
+lazy-object-proxy==1.4.*
 mccabe
 pep8
 Pillow
